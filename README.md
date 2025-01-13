@@ -28,3 +28,7 @@ npm run dev
 ## Deploy
 
 O deploy deste projeto foi realizado no Vercel
+
+## Links
+
+- [Figma Design](https://www.figma.com/design/EdMoC3GmpNe1W01A0kXweA/Novo-Controle-Ponto?node-id=1-12&t=lUMXRmQopOhJOfFH-0)
