@@ -27,4 +27,4 @@ npm run dev
 
 ## Deploy
 
-O deploy deste projeto foi realizado no Render
+O deploy deste projeto foi realizado no Vercel
