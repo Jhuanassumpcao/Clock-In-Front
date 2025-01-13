@@ -3,6 +3,11 @@
 Este projeto utiliza as seguintes tecnologias:
 
 - Docker
+# Clock-In-Front
+
+Este projeto utiliza as seguintes tecnologias:
+
+- Docker
 - Docker Compose
 - Node.js (Express)
 - npm
@@ -22,3 +27,7 @@ docker-compose up
 ```sh
 npm run dev
 ```
+
+## Deploy
+
+O deploy deste projeto foi realizado no Render.
