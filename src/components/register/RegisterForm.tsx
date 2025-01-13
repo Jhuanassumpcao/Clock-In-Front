@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import RegisterService from "../../services/RegisterService";
-import "./registerForm.css";
+import "./RegisterForm.css";
 import { useNavigate } from "react-router-dom";
 import Button from "../button/Button";
 
