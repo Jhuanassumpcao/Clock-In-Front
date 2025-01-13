@@ -1,0 +1,80 @@
+.history-container {
+    background-color: #2c2c3e;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 350px;
+  }
+  
+  .history-header {
+    margin-bottom: 20px;
+  }
+  
+  .history-header h2 {
+    font-size: 1.2rem;
+    color: #fff;
+  }
+  
+  .history-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .entry-list {
+    width: 100%;
+    text-align: left;
+  }
+  
+  .entry {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #3c3c4e;
+    border-radius: 5px;
+    color: #fff;
+  }
+  
+  .history-footer {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .days-worked {
+    font-size: 1rem;
+    color: #ffffff;
+    margin: 0 0 10px 0;
+    text-align: left;
+  }
+  
+  .entry-header {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+  }
+  
+  .arrow {
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .arrow.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  
+  .page-indicator {
+    font-size: 1rem;
+  }
+  

@@ -7,6 +7,13 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #1e1e2f;
 
+  --primary-color: #ff8800;
+  --primary-hover: #cc6d00;
+  --secondary-color: #007bff;
+  --secondary-hover: #0056b3;
+  --background-color: #1e1e2f;
+  --font-color: rgba(255, 255, 255, 0.87);
+
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -24,11 +31,17 @@ a:hover {
 
 body {
   margin: 0;
+  font-family: var(--font-family);
+  color: var(--font-color);
+  background-color: var(--background-color);
   display: flex;
+  justify-content: center;
+  align-items: center;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
+
 
 h1 {
   font-size: 3.2em;
