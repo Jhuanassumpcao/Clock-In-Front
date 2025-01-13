@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #ff8800;
+    --primary-hover: #cc6d00;
+    --secondary-color: #007bff;
+    --secondary-hover: #0056b3;
+    --background-color: #1e1e2f;
+    --font-color: rgba(255, 255, 255, 0.87);
+  
+    --font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    --font-size-base: 16px;
+    --font-weight-normal: 400;
+    --font-weight-bold: 600;
+  }
+  
