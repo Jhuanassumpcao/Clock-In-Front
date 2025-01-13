@@ -1,7 +1,7 @@
 import axios from 'axios';
 import AuthRepository from '../repositories//AuthRepository';
 
-const baseURL = 'http://localhost:3000';
+const baseURL = 'https://clock-in-api-1.onrender.com';
 
 const apiClient = axios.create({
   baseURL,
