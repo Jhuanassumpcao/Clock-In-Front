@@ -3,14 +3,11 @@
 Este projeto utiliza as seguintes tecnologias:
 
 - Docker
-# Clock-In-Front
-
-Este projeto utiliza as seguintes tecnologias:
-
-- Docker
 - Docker Compose
-- Node.js (Express)
 - npm
+- React
+
+Além disso, segui os princípios SOLID para garantir um código mais robusto e manutenível.
 
 ## Como rodar o projeto
 
@@ -30,4 +27,4 @@ npm run dev
 
 ## Deploy
 
-O deploy deste projeto foi realizado no Render.
+O deploy deste projeto foi realizado no Render
