@@ -1,9 +1,10 @@
 # Clock-In-Front
 
+[Deploy do Projeto](https://clock-in-front.vercel.app/login)
+
 Este projeto utiliza as seguintes tecnologias:
 
 - Docker
-- Docker Compose
 - npm
 - React
 
